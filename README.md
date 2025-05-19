@@ -84,4 +84,16 @@ This project is developed in partnership with ATX Free Fridge, inspired by the p
 
 Cool Aid is one of many tools helping Austin build a stronger, safer mutual aid network — powered by data and community care.
 
-Script available upon request with identifying information removed for privacy.
+📁 Extras
+
+The /scripts folder includes the Google Apps Script used to:
+
+Import weekly CSVs from a designated folder
+
+Deduplicate new entries by timestamp + fridge ID
+
+Automatically flag temperature spikes
+
+This automation ensures the dashboard updates weekly — without manual overhead.
+
+Note: Script available upon request with identifying information removed for privacy.
