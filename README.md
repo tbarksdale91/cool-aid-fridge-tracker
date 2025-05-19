@@ -83,3 +83,5 @@ Optional text/email alerts for spikes
 This project is developed in partnership with ATX Free Fridge, inspired by the principle: "Give what you can, take what you need."
 
 Cool Aid is one of many tools helping Austin build a stronger, safer mutual aid network — powered by data and community care.
+
+Script available upon request with identifying information removed for privacy.
